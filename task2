@@ -1,0 +1,3 @@
+egrep -o '\b[0-9]*\b' patterns.txt
+egrep -o '\b[A-z]*\b' patterns.txt
+
